@@ -15,7 +15,7 @@ def raise_frame(frame):
 #ฟังก์ชั่นรีสตาร์ท
 def restart_program():
     GUI.destroy()
-    os.startfile("Lab Project.py")
+    os.startfile("Project 2.py")
 #################################################   codeที่เก็บข้อมูล  SQL 1
 import sqlite3  
 
